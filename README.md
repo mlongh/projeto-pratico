@@ -1,4 +1,4 @@
-# Projeto Pratico - To-Do List
+# Projeto Prático - To-Do List
 
 ## Funcionalidades
 
